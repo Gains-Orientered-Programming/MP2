@@ -54,7 +54,6 @@ npm run dev
 
 ## Project Structure
 - `src/`: TypeScript source code
-- `ComplaintHandler.ts`: BPMN process implementation and complaint routing logic.
 - `bpmn/`: BPMN process diagrams.
 - `readme.md`: This project documentation.
 
