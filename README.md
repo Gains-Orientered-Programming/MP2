@@ -64,5 +64,5 @@ npm run dev
 - You can configure the routing conditions in `complaintHandler.ts` to match your specific departmental requirements.
 - Ensure that the Camunda Engine is correctly configured to manage BPMN processes
 
-
+![image](https://github.com/Gains-Orientered-Programming/MP2/assets/78900612/4d93ee8f-1047-44e2-9e59-d219ccbe415b)
 
