@@ -45,7 +45,7 @@ npm install
 1. Start the TypeScript application.
 
 ```bash
-npm start
+npm run dev
 ```
 
 2. Configure Camunda to handle BPMN processes.
