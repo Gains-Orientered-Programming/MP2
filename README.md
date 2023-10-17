@@ -7,7 +7,7 @@ This project implements a workflow for handling customer complaints using BPMN a
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
+- [Installation](#installation-for-typescript-environment)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Configuration](#configuration)
