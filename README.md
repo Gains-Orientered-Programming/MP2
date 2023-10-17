@@ -5,7 +5,7 @@
 This project implements a workflow for handling customer complaints using BPMN and Camunda. It allows for the automated routing of customer complaints to the appropriate department based on the content of the complaint message. Departments include HR, Marketing, and Support. The system integrates with an external API written in TypeScript, to receive and process complaint messages.
 
 ## Diagram for Customer Complaint Process
-![BPM_Diagram](https://github-production-user-asset-6210df.s3.amazonaws.com/78692409/275867749-82758d12-997d-4431-aa82-a78b63b124b7.png)
+![BPM_Diagram](https://github-production-user-asset-6210df.s3.amazonaws.com/78692409/275869494-dcbd069a-e4fe-4de1-8697-530c34e4e6d2.png)
 
 ## Table of Contents
 
