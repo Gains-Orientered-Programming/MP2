@@ -58,7 +58,7 @@ npm start
 - `bpmn/`: BPMN process diagrams.
 - `readme.md`: This project documentation.
 
-## Configuration ( Måske fjernes ) 
+## Configuration
 - You can configure the routing conditions in `complaintHandler.ts` to match your specific departmental requirements.
 - Ensure that the Camunda Engine is correctly configured to manage BPMN processes
 
